@@ -4,8 +4,10 @@ Created a user-friendly Java Banking Application with real-time currency exchang
 Key Features:
 Banking Operations:
  - Manages user accounts with deposit, withdrawal, and account information display.
+   
 Real-Time Currency Exchange:
  - Simulates real-time exchange rates for currency conversion.
+
 Integration:
  - Unified banking operations and currency exchange to create a cohesive application.
 
